@@ -21,13 +21,13 @@ This project aims to:
 ## 🏗️ Project Architecture
 
 Resume & Job Text
-↓
+→
 Text Preprocessing
-↓
+→
 Text Vectorization (TF-IDF)
-↓
+→
 Similarity Matching
-↓
+→
 Ranking & Scoring
 
 ---
